@@ -16,7 +16,7 @@
 
 💬 Ask me about **React, Node.js, MongoDB, Express, HTML, CSS, or anything [here](https://github.com/shriyansX/shriyansX/issues)**
 
-⚡ Fun fact **I love learning new tech, creating with purpose, and watching anime!**
+⚡ Fun fact **I love learning new tech, creating with purpose, and watching youtube!**
 
 </div>
 
