@@ -16,7 +16,7 @@
 
 💬 Ask me about **React, Node.js, MongoDB, Express, HTML, CSS, or anything [here](https://github.com/shriyansX/shriyansX/issues)**
 
-⚡ Fun fact **I love learning new tech, creating with purpose, and watching youtube!**
+⚡ Fun fact **I love learning new tech, creating with purpose, and watching anime!**
 
 </div>
 
@@ -29,6 +29,9 @@
   </a>
   <a href="https://portfolio-chi-olive-24.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://discord.gg/QxxEm3kh" target="_blank">
+     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
@@ -69,6 +72,9 @@
 ## 🌐 Contact Me:
 <a href="mailto:shriyans696@gmail.com" target="_blank">
   <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=shriyans696@gmail.com&size=square" alt="Shriyans Mukherjee" style="margin: 10px;">
+</a>
+<a href="https://discord.gg/QxxEm3kh" target="_blank">
+  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FQxxEm3kh&subtitle=Join+my+server&size=square" alt="Shriyans Discord" style="margin: 10px;">
 </a>
 <a href="https://www.linkedin.com/in/shriyansmukherjee/" target="_blank">
   <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.linkedin.com/in/shriyansmukherjee/&subtitle=@Shriyans+Mukherjee&size=square" alt="Shriyans Mukherjee" style="margin: 10px;">
