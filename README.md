@@ -10,7 +10,7 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **full-stack and front-end projects including a Netflix Clone and Transparent Login Page.**
+ 🔭 I’m currently working on **full-stack and front-end projects including a URL Shortner and Todo List.**
  
  🌱 I’m currently learning **Cloud Computing, AI/ML, and mastering the MERN stack.**
 
