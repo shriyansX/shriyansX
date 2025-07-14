@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/shriyansmukherjee/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="portfolio-six-mocha-83.vercel.app/" target="_blank">
+  <a href="https://portfolio-six-mocha-83.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
   <a href="https://discord.gg/QxxEm3kh" target="_blank">
