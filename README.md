@@ -74,6 +74,3 @@
 <a href="https://www.linkedin.com/in/shriyansmukherjee/" target="_blank">
   <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.linkedin.com/in/shriyansmukherjee/&subtitle=@Shriyans+Mukherjee&size=square" alt="Shriyans Mukherjee" style="margin: 10px;">
 </a>
-<a href="https://portfolio-six-mocha-83.vercel.app/" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://portfolio-six-mocha-83.vercel.app/&subtitle=Portfolio&size=square" alt="Shriyans Portfolio" style="margin: 10px;">
-</a>
