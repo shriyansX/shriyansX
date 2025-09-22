@@ -64,6 +64,19 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
+<hr/>
+
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/u/SHRIYANS_696/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="shriyans" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/SHRIYANS_696/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="shriyans" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/SHRIYANS_696/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="shriyans" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/SHRIYANS_696/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="shriyans" height="200" width="200" /></a>
+</p>
+
+<hr/>
+
 ## 🌐 Contact Me:
 <a href="mailto:shriyans696@gmail.com" target="_blank">
   <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=shriyans696@gmail.com&size=square" alt="Shriyans Mukherjee" style="margin: 10px;">
