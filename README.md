@@ -12,10 +12,10 @@
  🔭 I’m currently working on **ShorTify, a URL Shortener project and other full-stack web apps.**
  
  🌱 I’m currently learning **Cloud Computing, AI/ML, and mastering the MERN stack.**
-
+ 
 💬 Ask me about **React, Node.js, Next.js, MongoDB, Express, or anything [here](https://github.com/shriyansX/shriyansX/issues)**
 
-⚡ Fun fact **I love learning new tech, creating projects, and watching YouTube tutorials!**
+⚡ Fun fact **I love watching YouTube and scrolling thousands and thousands of reels per day !**
 </div>
 
 <div align="left"> 
