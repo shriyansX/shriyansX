@@ -10,9 +10,7 @@
 
 <div align="left">
  🔭 I’m currently working on **ShorTify, a URL Shortener project and other full-stack web apps.**
- 
- 
- 
+  
  🌱 I’m currently learning **Cloud Computing, AI/ML, and mastering the MERN stack.**
  
 💬 Ask me about **React, Node.js, Next.js, MongoDB, Express, or anything [here](https://github.com/shriyansX/shriyansX/issues)**
