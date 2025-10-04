@@ -1,89 +1,82 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shriyansX.shriyansX" />
 
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriyans+Mukherjee!;" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriyans+Mukherjee!;Welcome+to+my+GitHub+Profile!" />
 </h1>
 
-<h3 align="left">A passionate Full-Stack Developer from India, currently in my 3rd Year of B.Tech in Information Technology at KIIT University.</h3>
+<h3 align="center">💻 Full-Stack Developer | 🌏 India | 🎓 3rd Year IT @ KIIT University</h3>
 
-<br/>
+---
 
-<div align="left">
- 🔭 I’m currently working on **ShorTify, a URL Shortener project and other full-stack web apps.**
-  
- 🌱 I’m currently learning **Cloud Computing, AI/ML, and mastering the MERN stack.**
- 
-💬 Ask me about **React, Node.js, Next.js, MongoDB, Express, or anything [here](https://github.com/shriyansX/shriyansX/issues)**
+### 🚀 About Me  
+🔭 Currently building **ShorTify (URL Shortener)** & other MERN apps  
+🌱 Learning **Cloud Computing, AI/ML** & scaling MERN expertise  
+💬 Ask me about **React, Node.js, Next.js, MongoDB, Express** → [here](https://github.com/shriyansX/shriyansX/issues)  
+⚡ Fun fact: **I can binge YouTube + reels for hours and still want more 😆**
 
-⚡ Fun fact **I love watching YouTube and scrolling thousands and thousands of reels per day !**
+---
+
+### 🌐 Connect with Me  
+<div align="center">
+  <a href="mailto:shriyans696@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shriyansmukherjee/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-six-mocha-83.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
-<div align="left"> 
-  <a href="mailto:shriyans696@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/shriyansmukherjee/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-six-mocha-83.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
+---
+
+## ⚒️ Languages · Frameworks · Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb" /><br/>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,vercel,netlify,postman,mysql,python,c" />
 </div>
 
-<hr/>
+---
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,figma,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,c,python,mysql,postman,netlify,vercel,git" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="left">
-  <h2>⚡ My Github Stats ⚡</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shriyansX&show_icons=true&locale=en&theme=dark&hide_border=true" width="45%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyansX&layout=compact&theme=dark&hide_border=true" width="45%">
-  </div>
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shriyansX&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyansX&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shriyansX&theme=dark" alt="GitHub Streak" width="90%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shriyansX&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
-<br/>
-<hr/>
+---
 
-## 🏆 My GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shriyansX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-## 💹 GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shriyansX&custom_title=Shriyans's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-<hr/>
-
-<div align="center"> 
-<h2 align="center">Leetcode Info<h2>  
+## 🏆 GitHub Trophies  
 <p align="center">
-  <a href="https://leetcode.com/u/SHRIYANS_696/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="shriyans" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/SHRIYANS_696/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="shriyans" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/SHRIYANS_696/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="shriyans" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/SHRIYANS_696/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="shriyans" height="200" width="200" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=shriyansX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
-<hr/>
+---
 
-## 🌐 Contact Me:
-<a href="mailto:shriyans696@gmail.com" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=shriyans696@gmail.com&size=square" alt="Shriyans Mukherjee" style="margin: 10px;">
-</a>
-<a href="https://discord.gg/zesQcBRW" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FzesQcBRW&subtitle=Join+my+server&size=square" alt="Shriyans Discord" style="margin: 10px;">
-</a>
-<a href="https://www.linkedin.com/in/shriyansmukherjee/" target="_blank">
-  <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.linkedin.com/in/shriyansmukherjee/&subtitle=@Shriyans+Mukherjee&size=square" alt="Shriyans Mukherjee" style="margin: 10px;">
-</a>
+## 📈 Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shriyansX&custom_title=Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=00FFFF&line=39FF14&point=FFFFFF&area=true&area_color=39FF14" width="95%"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+## 🧩 Leetcode Info
+<div align="center">
+  <a href="https://leetcode.com/u/SHRIYANS_696/"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="180"/></a>
+  <a href="https://leetcode.com/u/SHRIYANS_696/"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="180"/></a>
+  <a href="https://leetcode.com/u/SHRIYANS_696/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="180"/></a>
+  <a href="https://leetcode.com/u/SHRIYANS_696/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="180"/></a>
+</div>
+
+---
+
+## 📬 Contact Me  
+<div align="center">
+  <a href="mailto:shriyans696@gmail.com"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=shriyans696@gmail.com&size=square" /></a>
+  <a href="https://discord.gg/zesQcBRW"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FzesQcBRW&subtitle=Join+my+server&size=square" /></a>
+  <a href="https://www.linkedin.com/in/shriyansmukherjee/"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.linkedin.com/in/shriyansmukherjee/&subtitle=@Shriyans+Mukherjee&size=square" /></a>
+</div>
