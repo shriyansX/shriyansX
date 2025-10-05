@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shriyansX.shriyansX" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriyans+Mukherjee!;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shriyans+Mukherjee!;Welcome+to+my+GitHub+Profile!;Contact+Me+For+Any+Work+📞" />
 </h1>
 
 <h3 align="center">💻 Full-Stack Developer | 🌏 India | 🎓 3rd Year IT @ KIIT University</h3>
