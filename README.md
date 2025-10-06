@@ -99,7 +99,6 @@
   <a href="mailto:shriyans696@gmail.com"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=shriyans696@gmail.com&size=square" /></a>
   <a href="https://discord.gg/zesQcBRW"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FzesQcBRW&subtitle=Join+my+server&size=square" /></a>
   <a href="https://www.linkedin.com/in/shriyansmukherjee/"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.linkedin.com/in/shriyansmukherjee/&subtitle=@Shriyans+Mukherjee&size=square" /></a>
-  <a href="https://portfolio-six-mocha-83.vercel.app/"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://portfolio-six-mocha-83.vercel.app/&subtitle=Visit+My+Portfolio&size=square" /></a>
 </div>
 
 ---
