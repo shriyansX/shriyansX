@@ -64,13 +64,33 @@
 
 ---
 
-## 🧩 Leetcode Info
+## 🧩 LeetCode Achievements
 <div align="center">
-  <a href="https://leetcode.com/u/SHRIYANS_696/"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="180"/></a>
-  <a href="https://leetcode.com/u/SHRIYANS_696/"><img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="180"/></a>
-  <a href="https://leetcode.com/u/SHRIYANS_696/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="180"/></a>
-  <a href="https://leetcode.com/u/SHRIYANS_696/"><img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="180"/></a>
+  <a href="https://leetcode.com/u/SHRIYANS_696/">
+    <img src="https://leetcard.jacoblin.cool/SHRIYANS_696?ext=heatmap&border=0&radius=15&theme=dark" height="280"/>
+  </a>
 </div>
+
+---
+
+## 🧠 My Badges & Milestones  
+<div align="center">
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" height="160"/>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" height="160"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" height="160"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="160"/>
+</div>
+
+---
+
+## 🧩 Achievements & Highlights  
+- 🥇 **Walmart USA – Advanced Software Engineering (Forage)**  
+- 🥈 **Goldman Sachs – Software Engineering (Forage)**  
+- 🥉 **Deloitte Australia – Technology Job Simulation (Forage)**  
+- ☁️ **AWS Academy Graduate – Cloud Architecting (AWS, 2024)**  
+- 🤖 **AICTE Virtual Internships – AI-ML & Android Developer**  
+- 🧑‍💻 **GirlScript Summer of Code Contributor**  
+- 🔥 **VaultofCodes, ShadowFox, and Pinnacle Labs Internships**
 
 ---
 
@@ -79,4 +99,11 @@
   <a href="mailto:shriyans696@gmail.com"><img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=shriyans696@gmail.com&size=square" /></a>
   <a href="https://discord.gg/zesQcBRW"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FzesQcBRW&subtitle=Join+my+server&size=square" /></a>
   <a href="https://www.linkedin.com/in/shriyansmukherjee/"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://www.linkedin.com/in/shriyansmukherjee/&subtitle=@Shriyans+Mukherjee&size=square" /></a>
+  <a href="https://portfolio-six-mocha-83.vercel.app/"><img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https://portfolio-six-mocha-83.vercel.app/&subtitle=Visit+My+Portfolio&size=square" /></a>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00FFFF&height=120&section=footer" />
+</p>
