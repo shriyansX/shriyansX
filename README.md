@@ -104,6 +104,7 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00FFFF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00FFFF&height=120&section=footer&text=Made%20with%20💚%20by%20Shriyans%20Mukherjee&fontAlign=50&fontAlignY=70&fontSize=20&fontColor=ffffff"/>
 </p>
